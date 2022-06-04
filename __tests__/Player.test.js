@@ -1,4 +1,4 @@
-const { JestHook } = require("jest-watcher");
+// const { JestHook } = require("jest-watcher");
 const Player = require("../lib/Player");
 const Potion = require("../lib/Potion");
 
